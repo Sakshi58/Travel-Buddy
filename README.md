@@ -38,3 +38,8 @@ can only view tours.
 * APIs: Integration of third-party APIs for hotel bookings, maps, etc.
 * Deployment: Docker, AWS (or any other cloud platform used)
 
+# SnapShot of the Website 
+
+
+https://github.com/Sakshi58/Travel-Buddy/assets/94946582/6d922720-fbce-45ef-899b-02e472ad07b9
+
