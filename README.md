@@ -30,14 +30,13 @@ has partial access to the tourism site.
 **Guest User**
 can only view tours.
 
-## Tech Stack to be Use
+## Tech Stack Used
 
-* Frontend: HTML, CSS, JavaScript, React (or any other frontend framework of your choice)
-* Backend: Node.js (or any other backend framework of your choice), Express.js
-* Database: MongoDB (or any other database system used)
+* Frontend: HTML, CSS, Bootstrap, JavaScript, React JS
+* Backend: Node.js , Express.js
+* Database: MongoDB 
 * APIs: Integration of third-party APIs for hotel bookings, maps, etc.
-* Deployment: Docker, AWS (or any other cloud platform used)
-
+* Deployment: Docker, AWS
 # SnapShot of the Website 
 
 
